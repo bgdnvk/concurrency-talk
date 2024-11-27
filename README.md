@@ -1,2 +1,3 @@
 # concurrency-talk
-Examples for my talk on concurrency at IKEA
+
+Examples for my Communicating Sequential Processes in Golang talk at IKEA

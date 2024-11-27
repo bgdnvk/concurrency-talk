@@ -1,0 +1,12 @@
+go 1.23.3
+
+use (
+	./examples/channels
+	./examples/channels-deadlock
+	./examples/goroutines
+	./examples/buffered-channels
+	./examples/waitgroup
+	./examples/channels-wg-refactor
+	./examples/select
+	./examples/select-default
+)
