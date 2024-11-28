@@ -14,7 +14,7 @@ func main() {
 }
 
 func deadlockExample(messages chan string) {
-	// use an anymous  goroutine to send the string "ping" to the channel
+	// use an anymous  goroutine to send the string to the channel
 	go func() { messages <- "first msg" }()
 	go func() { messages <- "second msg" }()
 	// Deadlock!
