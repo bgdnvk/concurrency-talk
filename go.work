@@ -9,4 +9,5 @@ use (
 	./examples/channels-wg-refactor
 	./examples/select
 	./examples/select-default
+	./examples/mutex
 )
