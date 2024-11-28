@@ -10,7 +10,7 @@ go into the folder of the example you want to run and do go run .
 
 goroutines: https://go.dev/play/p/MrqC7TSStOv  
 channels: https://go.dev/play/p/IQMX1SED8RK  
-channels-deadlock: https://go.dev/play/p/oiE6JUJoVDK  
+channels-deadlock: https://go.dev/play/p/H7RYRRGGIs4  
 buffered-channels: https://go.dev/play/p/WHQrcLj6O3V  
 waitgroup: https://go.dev/play/p/i3u2ssdjZAJ  
 channels-wg-refactor: https://go.dev/play/p/b52FLRnHZBh  
