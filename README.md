@@ -1,6 +1,7 @@
 # concurrency-talk
 
-Examples for my Communicating Sequential Processes in Golang talk at IKEA
+Examples for my Communicating Sequential Processes in Golang talk at IKEA.  
+[Blog Article: Communicating Sequential Processes in Golang](https://bognov.tech/communicating-sequential-processes-in-golang)
 
 ## how to run
 
